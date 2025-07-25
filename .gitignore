@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Build output
+dist/
+build/
+.next/
+out/
+# Hardhat artifacts
+frontend/artifacts/
+frontend/cache/
+frontend/coverage/
+# Env files
+.env
+.env.local
+.env.*.local
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
